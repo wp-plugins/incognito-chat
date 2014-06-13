@@ -21,10 +21,13 @@ Fully compatible with mobile devices.
 Plugin will not impact your website’s initial-load performance thanks 
 to Asynchronous Loading.
 
+Demo: http://wp.yuriyant.com/incognito-chatroulette/
+
+
 == Screenshots ==
 
 1. Universal design 
-2. Chat widget 
+2. Chat widget (page settings)
 3. Compatible with mobile devices 
 
 == Upgrade Notice ==
