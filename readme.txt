@@ -24,7 +24,7 @@ to Asynchronous Loading.
 == Screenshots ==
 
 1. Universal design 
-2. Chat widget
+2. Chat widget 
 3. Compatible with mobile devices 
 
 == Upgrade Notice ==
