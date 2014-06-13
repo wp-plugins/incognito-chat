@@ -1,0 +1,115 @@
+.column-data {
+    width: 170px;
+}
+.column-data img{
+    max-width: 150px;
+    padding: 4px;
+    line-height: 1.428571429;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.column-data img.icon{
+    max-width: 16px;
+    padding: 4px;
+    line-height: 1.428571429;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.column-email {
+    width: 180px;
+    max-width: 200px;
+}
+.column-email img {
+    margin-top: 3px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+}
+
+.column-category{
+    width: 100px;
+}
+
+
+.column-category .label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    text-shadow: none;
+    font-family: sans-serif;
+}
+.column-category .label[href]:hover,
+.column-category .label[href]:focus {
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+.column-category .label:empty {
+    display: none;
+}
+.column-category .label-default {
+    background-color: #999999;
+}
+.column-category .label-default[href]:hover,
+.column-category .label-default[href]:focus {
+    background-color: #808080;
+}
+.column-category .label-primary {
+    background-color: #428bca;
+}
+.column-category .label-primary[href]:hover,
+.column-category .label-primary[href]:focus {
+    background-color: #3071a9;
+}
+.column-category .label-success {
+    background-color: #5cb85c;
+}
+.column-category .label-success[href]:hover,
+.column-category .label-success[href]:focus {
+    background-color: #449d44;
+}
+.column-category .label-info {
+    background-color: #5bc0de;
+}
+.column-category .label-info[href]:hover,
+.column-category .label-info[href]:focus {
+    background-color: #31b0d5;
+}
+.column-category .label-warning {
+    background-color: #f0ad4e;
+}
+.column-category .label-warning[href]:hover,
+.column-category .label-warning[href]:focus {
+    background-color: #ec971f;
+}
+.column-category .label-danger {
+    background-color: #d9534f;
+}
+.column-category .label-danger[href]:hover,
+.column-category .label-danger[href]:focus {
+    background-color: #c9302c;
+}
+.message-description{
+    font-size: 15px;
+    margin: 5px 0px;
+    color: #333;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
