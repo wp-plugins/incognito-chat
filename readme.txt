@@ -26,9 +26,10 @@ Demo: http://wp.yuriyant.com/incognito-chatroulette/
 
 == Screenshots ==
 
-1. Universal design 
-2. Chat widget (page settings)
-3. Compatible with mobile devices 
+1. Main chat window
+2. Universal design 
+3. Chat widget (page settings)
+4. Compatible with mobile devices 
 
 == Upgrade Notice ==
 Up the version to work with update plugin.
