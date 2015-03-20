@@ -1,4 +1,4 @@
-=== Incognito chat (chat roulette) ===
+===  Incognito Chat - Free Live Chat Plugin (chat roulette) ===
 Contributors: Yuriy Antokhin
 Donate link: http://incognito-chat.com/
 Tags: chat, chatroulette, widget, live chat, simple chat, communication, conversation, talk 
