@@ -4,7 +4,7 @@
   Plugin Name: Incognito chat (widget)
   Plugin URI: http://incognito-chat.yuriyant.com/
   Description: Incognito chat (widget) for WordPress
-  Version: 1.0.0
+  Version: 1.1.0
   Author: Yuriy Antokhin
   Author URI: http://about.me/yuriyant
  */
