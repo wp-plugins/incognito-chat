@@ -36,8 +36,13 @@ Up the version to work with update plugin.
 
 == ChangeLog ==
 
+= 1.1.0 =
+* Change API URL
+
 = 1.0.0 =
 * Initial release
+
+
 
 == Installation ==
 
