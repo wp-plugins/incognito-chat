@@ -2,7 +2,7 @@
 
 /**
  * @author Yuriy Antokhin <yuriyant@gmail.com>
- * @link http://incognito-chat.com/
+ * @link http://incognito-chat.yuriyant.com/
  * @copyright 2014 Yuriyant
  */
 class INCTCHATWIDGET_Integration_Widget {

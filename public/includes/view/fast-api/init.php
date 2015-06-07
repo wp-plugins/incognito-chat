@@ -28,14 +28,14 @@ switch ($options['show_widget']) {
             widget_picture: '<?php echo  esc_html(@$options['widget_picture']) ?>',
             <?php echo $tab_position ?>
             tab_color: '<?php echo esc_html(@$options['buttonColor']) ?>',
-            assetsUrl: 'http://incognito-chat.com/incognito-chatroulette/app/static/public',
-            openUrl: 'http://incognito-chat.com/incognito-chatroulette/',
+            assetsUrl: 'http://incognito-chat.yuriyant.com/incognito-chatroulette/app/static/public',
+            openUrl: 'http://incognito-chat.yuriyant.com/incognito-chatroulette/',
             mobile: <?php echo ($isMobile || $isTablet) ? 1 : 0 ?>
         }
         var inctchat = document.createElement('script');
         inctchat.type = 'text/javascript';
         inctchat.async = true;
-        inctchat.src = 'http://incognito-chat.com/incognito-chatroulette/app/static/public/js/app/widget.js';
+        inctchat.src = 'http://incognito-chat.yuriyant.com/incognito-chatroulette/app/static/public/js/app/widget.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(inctchat, s)
     })()
